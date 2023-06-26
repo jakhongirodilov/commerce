@@ -1,0 +1,23 @@
+{% extends "auctions/layout.html" %}
+
+
+
+{% block body %}
+
+
+<div style="margin: 20px;">
+    {% for category in categories %}
+        <div class="btn-group">
+            <a href="{% url 'category' id=category.id %}" class="btn btn-primary active" aria-current="page">{{ category }}</a>
+        </div>
+    {% endfor %}
+</div>    
+    
+
+    
+
+    
+
+       
+
+{% endblock %}
