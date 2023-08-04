@@ -27,13 +27,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/online-auction.git
+git clone https://github.com/jakhongirodilov/commerce.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd online-auction
+cd commerce
 ```
 
 3. Install dependencies:
@@ -74,7 +74,3 @@ Please ensure that your contributions align with the project's coding style and 
 ## Contact
 
 For any questions or inquiries, please contact odilovjakhongir@gmail.com, www.linkedin.com/in/jakhongirodilov.
-
----
-
-Feel free to customize the README file based on your project's specific requirements, additional features, or any other relevant information you'd like to include.
